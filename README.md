@@ -1,2 +1,2 @@
 # spotify_datavis
-Visualizing data from my personal spotify data
+My personal spotify data visualized
